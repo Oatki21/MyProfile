@@ -1,0 +1,42 @@
+body {
+	text-decoration: none;
+	background-color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+header {
+	color: #D83134;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: italic;
+	text-align: center;
+	text-transform: capitalize;
+	background-color: #18C341;
+	background-image: url(url);
+	border-style: groove;
+	border-color: #C720AC;
+}
+
+footer nav {
+	color: #D83134;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: italic;
+	text-align: center;
+	text-transform: capitalize;
+	background-color: #18C341;
+	background-image: url(url);
+	border-style: groove;
+	border-color: #C720AC;
+	text-decoration: none;
+}
+nav p a {
+}
+a:hover {
+	color: #EB510B;
+	background-color: #160DE3;
+	border-radius: 10px;
+	text-align: left;
+	font-size: xx-large;
+}
+a:visited {
+	color: #921ACF;
+}
